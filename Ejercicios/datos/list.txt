@@ -1,0 +1,10 @@
+nombre0;marca0;modelo0;11.12;1
+nombre1;marca1;modelo1;12.13;2
+nombre2;marca2;modelo2;13.14;3
+nombre3;marca3;modelo3;14.15;4
+nombre4;marca4;modelo4;15.16;5
+nombre5;marca5;modelo5;16.17;6
+nombre6;marca6;modelo6;17.18;7
+nombre7;marca7;modelo7;18.19;8
+nombre8;marca8;modelo8;19.20;9
+nombre9;marca9;modelo9;20.21;10
